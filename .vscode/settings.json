@@ -1,3 +1,6 @@
 {
-    "rust-analyzer.checkOnSave.command": "xclippy"
+    "rust-analyzer.checkOnSave.command": "xclippy",
+    "files.exclude": {
+        "target": true
+    }
 }
